@@ -1,6 +1,9 @@
 main {
   height: 100vh;
   background-image: url("/logo-autosalone.webp");
-  object-fit: cover;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
+
 //non so se è giusto o sbagliato ma è l'unico modo che ho trovato per inserire un background
