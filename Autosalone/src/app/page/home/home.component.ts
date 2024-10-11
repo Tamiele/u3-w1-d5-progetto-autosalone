@@ -22,7 +22,6 @@ export class HomeComponent implements OnInit {
         this.arrayCarAvailable = dati.filter(
           (car: ICar) => car.available === true
         );
-
         this.shuffleArray(this.arrayCarAvailable);
       })
       .catch((err) => {
