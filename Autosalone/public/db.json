@@ -1,0 +1,56 @@
+[
+  {
+    "brand": "Fiat",
+    "brandLogo": "logofiat.png",
+    "model": "500L",
+    "modelImage": "https://www.allfastrent.it/wp-content/uploads/2021/05/500L.jpg",
+    "year": 2015,
+    "price": 7500,
+    "available": false
+  },
+  {
+    "brand": "Fiat",
+    "brandLogo": "logofiat.png",
+    "model": "500 Abarth",
+    "modelImage": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Fiat_500_Abarth_front.JPG",
+    "year": 2010,
+    "price": 3500,
+    "available": true
+  },
+  {
+    "brand": "Ford",
+    "brandLogo": "logoford.png",
+    "model": "Taurus",
+    "modelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/2008_Ford_Taurus_SEL_.jpg/280px-2008_Ford_Taurus_SEL_.jpg",
+    "year": 2009,
+    "price": 5200,
+    "available": false
+  },
+  {
+    "brand": "Ford",
+    "brandLogo": "logoford.png",
+    "model": "Focus",
+    "modelImage": "https://assets.dyler.com/uploads/cars/373331/8095291/medium_3e82969d-2163-4d35-b714-16cff97cac9e.jpg",
+    "year": 2014,
+    "price": 9700,
+    "available": true
+  },
+  {
+    "brand": "Audi",
+    "brandLogo": "https://e7.pngegg.com/pngimages/665/220/png-clipart-audi-logo-audi-a3-car-emblem-logo-audi-car-logo-brand-text-candle-thumbnail.png",
+    "model": "A3",
+    "modelImage": "https://cdn.drivek.com/configurator-imgs/cars/it/Original/AUDI/A3-SPORTBACK/44134_HATCHBACK-5-DOORS/audi-a3-sportback-front-view.jpg",
+    "year": 2012,
+    "price": 4300,
+    "available": true
+  },
+  {
+    "brand": "Audi",
+    "brandLogo": "https://e7.pngegg.com/pngimages/665/220/png-clipart-audi-logo-audi-a3-car-emblem-logo-audi-car-logo-brand-text-candle-thumbnail.png",
+    "model": "Q7",
+    "modelImage": "https://www.nuovescontate.com/foto/Regole/11/708/6_0.jpg",
+    "year": 2020,
+    "price": 41700,
+    "available": false
+  }
+]
